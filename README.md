@@ -1,9 +1,9 @@
-# [INSERT TITLE]
+# Evidence of predation and parasitism affecting EBPR performance through microbial community instability.
 
 ## Introduction
 This repository contains all of the scripts needed to replicate the results and output presented in:   
 
-Yaping, N., Price, J.R., Wang, Y., Cheng, M., Keshani Langroodi, S., Woloszynek, S., Rosen, G., Yuan, L., Sales, C.M. **2018 (IN REVIEW)**. Evidence of predation and parasitism affecting EBPR performance through microbial community instability. Water Research. 
+Yaping, N., Price, J.R., Wang, Y., Cheng, M., Keshani Langroodi, S., Woloszynek, S., Rosen, G., Yuan, L., Sales, C.M. **2018 (IN REVIEW)**. Evidence of predation and parasitism affecting EBPR performance through microbial community instability.
 
 Please read this markdown file in it's entirety before proceeding. 
 
